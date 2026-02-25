@@ -7,6 +7,9 @@ Table 1 - Boolean phrases used in systematic searches
 Table 2 - Simplified spreadsheet of all included studies (N=69)
 
 
+Table 3 - Definitions of relationship categories
+
+
 Supplementary Data 1 - Extended version of Table 2 with additional information on included studies
 
 
