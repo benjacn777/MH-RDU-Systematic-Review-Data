@@ -1,5 +1,5 @@
 # MH-RDU-Systematic-Review-Data
-All data (including supplement) pertaining to a systematic review on MH &amp; RDU (in submission)
+All data (including supplement) pertaining to "The chicken and the egg - a systematic review of the relationship between recreational drug use and mental health in the general population" Clayden, B., Abeywickrema, M., & Balaet, M. (preprint: osf.io/preprints/psyarxiv/fn9u6_v4)
 
 Table 1 - Boolean phrases used in systematic searches
 
